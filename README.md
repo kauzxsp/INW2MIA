@@ -1,3 +1,6 @@
-Kauan dos Santos Americo =)
-
-# INW2MIA
+# Floricultura
+atv feita em HTML e CSS
+## Participantes
+- Kauan Américo
+- Kaio Pimentel
+- Bruno Gama
